@@ -16,9 +16,9 @@ Requirements:
 * Java 8
 * Maven 3
 * Database configuration is currently configured as follows:
- -  MySQL 5
- -  Schema name cards_db
- -  Localhost/port 3306 
+     -  MySQL 5
+     -  Schema name cards_db
+     -  Localhost/port 3306 
  
  
  To build and run the project, type:
